@@ -283,7 +283,6 @@
     "AbilityBehavior"        "DOTA_ABILITY_BEHAVIOR_PASSIVE"
     "AbilityUnitTargetType"      "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
     "AbilityUnitDamageType"      "DAMAGE_TYPE_MAGICAL"
-    "MODIFIER_PROPERTY_STATS_STRENGTH_BONUS" "3 6 9 12 15 18 21 24 27 30 33 36"
   }
 }
 
